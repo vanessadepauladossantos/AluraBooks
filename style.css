@@ -1,8 +1,15 @@
 @import url(/styles/header.css);
+@import url(styles/banner.css);
+@import url(styles/carrosel.css);
 :root{
     --cor-de-fundo:#EBECEE;
     --branco:#FFFFFF;
 }
 body{
     background-color: var(--cor-de-fundo);
+--azul-degrade: linear-gradient(97 .57deg, #002f52 35.49%, #326589
+--fonte-principal: "Poppins";
+--azul: #002f52
 }
+body{
+background-color:var(--cor-de-fundo);
